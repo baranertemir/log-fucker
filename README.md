@@ -1,4 +1,4 @@
-# Log Fucker
+# LOG FUCKER
 
 #### Usage
 chmod +x logfucker
