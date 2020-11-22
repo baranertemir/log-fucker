@@ -1,0 +1,16 @@
+#!/bin/bash
+
+printf "${GREEN} www	wwwwww	wwwwww	  wwwwwwww w	 w  wwwww w   w	 wwwwww	wwwww	\n"
+printf "${GREEN} www	w    w	w	  ww	   w	 w w	  w  w	 w	w    w	\n"	
+printf "${GREEN} www	w    w	w	  ww 	   w	 w w	  w w	 w	w    w	\n"	
+printf "${GREEN} www	w    w	w  www	  wwwwww   w	 w w	  www 	 wwww	wwwww	\n"	
+printf "${GREEN} www	w    w	w    w	  ww	   w	 w w	  w  w	 w	w    w	\n"	
+printf "${GREEN} wwwwww	w    w	w    w	  ww	   w	 w w	  w   w	 w	w    w	\n"	
+printf "${GREEN} wwwwww	wwwwww	wwwwww 	  ww	   wwwwwww  wwwww w    w wwwwww	w    w	\n\n"
+printf "${GREEN} CREATOR A.Baran ERTEMIR \n"
+
+
+echo "" > /var/log/yum.log ; echo "" > /var/log/wtmp ; echo "" > /var/log/utmp ; echo "" > /var/log/secure ; echo "" > /var/log/mysqld.log ; echo "" > /var/log/mysqld.log echo "" > /var/log/boot.log ; echo "" > /var/log/maillog ; echo "" > /var/log/cron.log ; echo "" > /var/log/kern.log ; echo "" > /var/log/auth.log ; echo "" > /var/log/message ; echo "" > /var/log/lastlog
+
+
+echo "ALL LOGS ARE CLEARED!"
