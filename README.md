@@ -1,9 +1,9 @@
 # Log Fucker
 
-### Usage:
+#### Usage:
 chmod +x logfucker
 
 sudo ./logfucker
 
-### Description: 
+#### Description: 
 Bash script to clean linux log files.
